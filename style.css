@@ -1,0 +1,75 @@
+.body{
+    background-image: url(fraise2.avif);
+    background-repeat: none;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+/* -------------------------------navbar-------------------------------- */
+
+.navbar{
+    text-align: center;
+    background-color: rgb(67, 8, 8);
+}
+
+.navbar .navbar-toggler{
+    color: gray;
+}
+
+
+.navbar a{
+    color: white;
+    
+}
+
+.navbar a:hover,
+.navbar a:active{
+color: white;
+}
+
+/* --------------------------------home---------------------------------------------- */
+
+.left1{
+    background: wheat;
+    height: 250px;
+    width: 350px;
+     padding-top: 15px; 
+    border-radius: 10px;
+    position: absolute;
+    z-index: 1;
+}
+
+.left1 button{
+ margin-left: 150px;
+ margin-top: 10px;
+}
+
+.img-fluid{
+    position: relative;
+    margin-left: 250px;
+}
+
+/* ----------------------------------------promise---------------------------------------------- */
+
+#promise{
+    background: rgba(103, 31, 31, 0.8);
+    padding: 20px;
+}
+
+.promise1{
+    background: wheat;
+    padding: 50px;
+    width: 200px;
+    border-radius: 5px;
+    border: 10px solid rgba(103, 31, 31, 0.8);
+}
+
+/* -------------------------------------------footer------------------------------------------------ */
+
+#footer{
+    padding: 30px;
+    text-align: center;
+    color: white;
+    background: rgb(31, 6, 6);
+}
+

@@ -1,0 +1,24 @@
+@media (max-width:480px){
+#caissier .home{
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar{
+    text-align: center;
+    background-color: rgb(67, 8, 8);
+}
+
+.left1{
+    background: wheat;
+    width: 90%;
+     padding-top: 15px; 
+    border-radius: 10px;
+}
+
+.img-fluid{
+    margin-left: 0;
+    width: 100%;
+    margin-top: 320px;
+}
+}
