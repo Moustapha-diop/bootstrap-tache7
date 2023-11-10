@@ -47,6 +47,8 @@ color: white;
 .img-fluid{
     position: relative;
     margin-left: 250px;
+    width: 100%;
+    height: 100%;
 }
 
 /* ----------------------------------------promise---------------------------------------------- */
@@ -73,3 +75,81 @@ color: white;
     background: rgb(31, 6, 6);
 }
 
+/* ----------------------------------------about-------------------------------------------- */
+.bas{
+    background: wheat;
+    width: 500px;
+    border-radius: 5px;
+    margin-left: 100px;
+    padding: 20px;
+    margin-top: -50px;
+    position: relative;
+    z-index: 1;
+}
+
+.bas p{
+    font-size: 12px;
+}
+
+.img-fluid1{
+    position: relative;
+}
+
+/* --------------------------------------------produits--------------------------------------------------- */
+.product{
+margin-top: 100px;
+}
+
+
+.top1{
+    background: wheat;
+    padding: 20px;
+    width: 300px;
+    margin-left: 450px;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: -40px;
+    z-index: 1;
+    
+}
+
+.bottome1{
+    background: wheat;
+    padding: 20px;
+    width: 300px;
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+    margin-top: -50px;
+}
+
+.img-fluid2{
+    width: 80%;
+    height: 400px;
+    margin-left: 50px;
+    position: relative;
+
+}
+
+
+.top2{
+    background: wheat;
+    padding: 20px;
+    width: 300px;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: -40px;
+    z-index: 1;
+    
+}
+
+.bottome2{
+    background: wheat;
+    padding: 20px;
+    width: 300px;
+    margin-left: 450px;
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+    margin-top: -50px;
+}
